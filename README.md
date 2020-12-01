@@ -1,1 +1,2 @@
-# biogeographical_disparity
+- Data and code from the 2018 paper "Biogeographical disparity in the functional diversity and redundancy of corals"
+- https://doi.org/10.1073/pnas.1716643115 

@@ -1,0 +1,13 @@
+﻿name,region,domain,col,group,order,n
+Brazil,Brazil,Atlantic,#1f78b4,c,11,2
+Caribbean,Caribbean,Atlantic,#ff7f00,c,10,3
+East_Atlantic,East Atlantic,Atlantic,#a6cee3,c,12,1
+Eastern.Pacific,East Pacific,Indo-Pacific,#33a02c,b,9,4
+Fiji.Caroline.Islands,Fiji,Indo-Pacific,#fdbf6f,a,6,8
+Hawaii.Line.Islands,Hawaii,Indo-Pacific,#e31a1c,b,8,13
+Indonesia.Philippines,Coral Triangle,Indo-Pacific,salmon,a,4,5
+Persian.Gulf,Persian Gulf ,Indo-Pacific,#6a3d9a,a,2,11
+Polynesia,French Polynesia,Indo-Pacific,#b2df8a,a,7,12
+Red.Sea.Gulf.of.Aden,Red Sea,Indo-Pacific,#ffff99,a,1,14
+Tropical.Australia,Australia,Indo-Pacific,turquoise,a,5,7
+Western.Indian.Ocean,Indian Ocean,Indo-Pacific,#cab2d6,a,3,9
