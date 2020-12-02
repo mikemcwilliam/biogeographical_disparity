@@ -48,7 +48,7 @@ head(FP)
 FP <- FP[!FP$group %in% c(6,10,16,15),]
 info <- read.csv("data/info.csv")
 mapcols<-info$col 
-names(mapcols)<-info$n
+names(mapcols)<-info$shp.n
 
 # plot shifted map
 map<-ggplot() + 
